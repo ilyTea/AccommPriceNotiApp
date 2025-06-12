@@ -1,4 +1,15 @@
-This is a webscraper for daft.ie the popular house listing website in Ireland.
+**WIP** This is a webscraper for daft.ie the popular house listing website in Ireland.
+
+TO RUN:
+
+1. Download
+2. In terminal type : go run main.go
+
+Planned:
+  - Server client with web based ui
+
+
+- --- ----- ------- ----------- ------------ --------------- --------------------- ----------------------- ------------------------------------
 
 all dependencies are from this [**package** ](https://github.com/playwright-community/playwright-go) 
 
